@@ -1,0 +1,1 @@
+[![Anurag's GitHub stats](https://gh-stats-api.vercel.app/api?username=handerfall&show_icons=true&theme=github_dark_dimmed&hide=stars,issues&show=prs_merged,prs_merged_percentage)](https://github.com/handerfall)
